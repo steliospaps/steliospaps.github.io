@@ -63,12 +63,13 @@ I chose to manage the pi once it is setup via puppet. I chose Puppet because inf
 
 I found [some instructions for that](https://web.archive.org/web/20210508073545/http://frederickvandenbosch.be/?p=1843).
 
-
+I made a [bolt docker image](https://github.com/steliospaps/puppet-bolt-in-docker) to avoid installing bolt on my system.
 
 TODO:
 
 I want a masterless puppet setup
-
+ - https://puppet.com/docs/bolt/latest/bolt_installing.html
+ - https://puppet.com/blog/how-deploy-telegraf-influxdb-and-grafana-bolt/
  - https://janikvonrotz.ch/2018/12/08/puppet-masterless-project-setup-guide/
 
  - https://github.com/danieldreier/puppet-push
