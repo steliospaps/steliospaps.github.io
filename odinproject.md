@@ -1,3 +1,4 @@
 - foundations
+  - [recipies](./odin-recipes/)
   - [landing-page](./odin-foundations-landing-page/)
   - [rock-paper-scissors](./odin-foundations-rock-paper-scissors/)
