@@ -1,0 +1,1 @@
+- [rock-paper-scissors](./odin-foundations-rock-paper-scissors/)
