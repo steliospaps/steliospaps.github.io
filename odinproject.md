@@ -1,1 +1,3 @@
-- [rock-paper-scissors](./odin-foundations-rock-paper-scissors/)
+- foundations
+  - [landing-page](./odin-foundations-landing-page/)
+  - [rock-paper-scissors](./odin-foundations-rock-paper-scissors/)
