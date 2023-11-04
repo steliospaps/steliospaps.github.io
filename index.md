@@ -1,3 +1,3 @@
 # about
-[theodinproject](./odinproject.md)
-[projets](./projects.md)
+- [theodinproject](./odinproject.md)
+- [projets](./projects.md)
