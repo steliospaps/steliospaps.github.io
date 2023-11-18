@@ -3,4 +3,4 @@
   - [landing-page](./odin-foundations-landing-page/)
   - [rock-paper-scissors](./odin-foundations-rock-paper-scissors/)
   - [Etch-A-Sketch](./odin-foundations-etch-a-sketch/)
-  - [calculator](./odin-foundations-calculator/)]]
+  - [calculator](./odin-foundations-calculator/)
